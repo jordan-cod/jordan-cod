@@ -1,0 +1,3 @@
+- 👋 Oi, me chamo Gabriel Jordan;
+- 👀 Estou estudando e criando projetos sobre o desenvolvimento web Front end;
+- 🌱 Atualmente estou aprendendo HTML e CSS e planejo estudar Javascript e alguns frameworks;
