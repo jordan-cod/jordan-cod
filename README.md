@@ -15,6 +15,6 @@
 
 - **Linguagens de Programação:** TypeScript, JavaScript, Python, C
 - **Frameworks:** Vue.js, React.js, Next.js, Node.js, FastAPI
-- **Ferramentas de Desenvolvimento:** Visual Studio Code, Git
+- **Ferramentas de Desenvolvimento:** Visual Studio Code, Git, Docker
 - **Sistemas Operacionais:** Windows, Ubuntu
 
