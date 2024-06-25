@@ -5,7 +5,7 @@
 - 👨‍💻 Desenvolvedor Web Full Stack.
 - 🎓 Tecnólogo em Sistemas para Internet.
 - 🌱 Sempre aprendendo e explorando novas tecnologias.
-- 📫 Como entrar em contato comigo: [LinkedIn](https://www.linkedin.com/in/gabrieljordandev) | [Website](https://gabrieljordan.me)
+- 📫 Como entrar em contato comigo: [LinkedIn](https://www.linkedin.com/in/gabrieljordandev)
   
 ## 🛠️ Ferramentas e Tecnologias Favoritas
 
